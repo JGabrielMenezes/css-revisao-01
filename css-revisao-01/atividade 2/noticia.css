@@ -1,0 +1,49 @@
+/*principal*/
+
+#principal{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+/*tabela*/
+
+#tb1 {
+    border: solid 1px black;
+    width: 766px;
+    height: 36px;
+    background-color: #000033;
+}
+
+/*titulo*/
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #fff;
+    text-align: center;
+}
+
+/*origem*/
+
+.origem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #fff;
+    text-align: justify;
+}
+
+/*resumo*/
+
+.resumo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: white;
+}
